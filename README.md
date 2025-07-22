@@ -98,11 +98,11 @@ A detailed technical report is available in the `reports/` folder:
 
 - **Himanshu Agrawal**  
   _AI Practitioner | Software Engineer at Mediaocean_  
-  [LinkedIn](https://www.linkedin.com/in/himanshu-agrawal-456b9a122/)
+  [LinkedIn](https://www.linkedin.com/in/himanshuagrawal18/)
 
 - **Adarsh S A**  
   _Analytics Professional at ANZ | Data & Decision Systems_  
-  [LinkedIn](https://www.linkedin.com/in/adarsh-s-a-6935521b1/)
+  [LinkedIn](https://www.linkedin.com/in/adarsh-sa/)
 
 
 **Shibani Roychoudhury**  
