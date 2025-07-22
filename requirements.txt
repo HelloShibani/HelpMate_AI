@@ -1,0 +1,6 @@
+langchain
+pdfplumber
+sentence-transformers
+chromadb
+ollama
+pandas
