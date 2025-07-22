@@ -1,10 +1,11 @@
 # 🧠 HelpMateAI: Retrieval-Augmented Search System for Insurance Documents
 
-![LangChain](https://img.shields.io/badge/Built%20With-LangChain-blue)
-![LLM-Ollama](https://img.shields.io/badge/LLM-Ollama%203.2-yellow)
-![Embedding Model](https://img.shields.io/badge/Embeddings-MiniLM--L6--v2-green)
-![ChromaDB](https://img.shields.io/badge/Vector%20DB-ChromaDB-purple)
-![License](https://img.shields.io/github/license/yourusername/HelpMate_AI)
+[![LangChain](https://img.shields.io/badge/Built%20With-LangChain-blue)](https://www.langchain.com/)
+[![LLM-Ollama](https://img.shields.io/badge/LLM-Ollama%203.2-yellow)](https://ollama.com/)
+[![Embeddings](https://img.shields.io/badge/Embeddings-MiniLM--L6--v2-green)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+[![Vector DB](https://img.shields.io/badge/Vector%20DB-ChromaDB-purple)](https://www.trychroma.com/)
+[![License](https://img.shields.io/github/license/HelloShibani/HelpMate_AI)](https://github.com/HelloShibani/HelpMate_AI/blob/main/LICENSE)
+
 
 
 HelpMateAI is a modular Retrieval-Augmented Generation (RAG) system designed to navigate complex insurance documents using semantic search and generative answering. Built using LangChain, HuggingFace Transformers, Ollama 3.2, and ChromaDB, it efficiently extracts and surfaces relevant information from lengthy, structured PDF documents like insurance policies.
