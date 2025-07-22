@@ -83,10 +83,29 @@ A detailed technical report is available in the `reports/` folder:
 
 ## 🔄 Future Roadmap
 
+Planned extensions to improve usability, transparency, and scale:
+
 - [ ] Streamlit/Gradio UI for non-technical users
 - [ ] Hybrid RAG with rule-based fallback and citations
 - [ ] In-app table visualizer and clause tracking
 - [ ] Multi-document summarization & comparison
+
+---
+
+## 🗺️ Roadmap & Open Issues
+
+This system is evolving toward a more robust, fallback-aware document QA pipeline.
+
+Current areas of focus:
+
+- [ ] **Add Fallback Logic for Missing Vector Embeddings** ([#1](https://github.com/HelloShibani/HelpMate_AI/issues/1))  
+- [ ] **Score and Rank Answers by Retrieval Confidence** ([#2](https://github.com/HelloShibani/HelpMate_AI/issues/2))  
+- [ ] **Chunking Strategy Evaluation Notebook** ([#3](https://github.com/HelloShibani/HelpMate_AI/issues/3))  
+- [ ] **.env Template for Local Config** ([#4](https://github.com/HelloShibani/HelpMate_AI/issues/4))  
+- [ ] **Architecture Diagram for System Flow** ([#5](https://github.com/HelloShibani/HelpMate_AI/issues/5))
+
+Check out all [📌 Open Issues](https://github.com/HelloShibani/HelpMate_AI/issues)  
+or open a new one to explore edge cases, extensions, or improvements.
 
 ---
 
