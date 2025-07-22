@@ -76,7 +76,7 @@ jupyter notebook notebooks/HelpMate_AI_Ollama.ipynb
 ## 📚 Project Report
 
 A detailed technical report is available in the `reports/` folder:  
-📄 [Project Report HELPMATE_AI.pdf](reports/Project%20Report%20HELPMATE_AI.pdf)
+📄 [📥 Download Project Report HELPMATE_AI.pdf](https://raw.githubusercontent.com/HelloShibani/HelpMate_AI/main/reports/Project%20Report%20HELPMATE_AI.pdf)
 
 ---
 
